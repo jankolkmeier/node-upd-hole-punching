@@ -1,9 +1,6 @@
 Node UDP Hole punching
 =========================
 
-Introduction
--------------------------
-
 In this experiment it is attempted to use the UDP Hole punching technique to
 initiate a connection between two clients behind NAT (without port forwarding).
 
